@@ -382,10 +382,10 @@ header {
     }
     li:first-child {font-size:1.1em;}
     .active {
-      border-bottom: 4px solid $blue;
+      //border-bottom: 4px solid $blue;
     }
     li:hover {
-      border-bottom: 4px solid $blue;
+      //border-bottom: 4px solid $blue;
     }
   }
 }
@@ -763,11 +763,12 @@ padding: 0;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
   position: relative;
   .lead {
-    font-size: 28px !important;
+    font-size: 32px !important;
     font-weight: 300;
     color: $gray;
     margin-top: 80px;
     margin-bottom: 60px;
+    line-height: 48px;
   }
 }
 
@@ -904,6 +905,11 @@ footer {
 }
 
 /***** PRODUCT PAGES  *****/
+
+img.product-logo {
+display: block;
+margin: 0 auto;
+}
 
 #secondary-nav-collapse ul {
   width: 100% !important;
