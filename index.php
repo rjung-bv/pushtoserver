@@ -86,8 +86,8 @@
               <div class="col-sm-3 col-xs-12">
                 <a href="https://sharex.com/login/login.jsp" target="new"><img class="img-responsive" src="img/sharex-screen.png"></a>
               </div>
-              <div class="col-sm-9 col-xs-12">
-                 <h2 class="blue">Announcing ShareX for Dispersed Teams in the Mobile Enterprise</h2>
+              <div class="col-sm-8 col-sm-offset-1 col-xs-12">
+                 <h2 class="blue"><a href="../products/sharex.php">ShareX for Dispersed Teams in the Mobile Enterprise</a></h2>
                 <p>When content is uploaded to the cloud, organizations are at risk of losing control of confidential information. ShareX restores that control while still meeting the user's needs for mobility and a rich user experience. ShareX preserves the benefits of ready access to updated content, without the worry of information leaks.</p>
                 <a href="../products/sharex.php" class="read-more-link">Learn More &gt;</a>
               </div>
@@ -102,13 +102,12 @@
           <div class="col-xs-12 page-content">
             <div class="row feat-product">
               <div class="col-sm-3 col-xs-12">
-              <a href="http://www.boardvantage.com/downloads/white-papers/boardvantage-wp-leadership-communication-mobile-enterprise.pdf" target="new"><img class="img-responsive image-shadow" src="img/196x251_PBCL_Cover.png"></a>
+              <a href="../downloads/white-papers/BoardVantage-Purpose-Built-Collaboration-for-Leadership-eRead.pdf" target="new"><img class="img-responsive image-shadow" src="img/196x251_PBCL_Cover.png"></a>
             </div>
             <div class="col-sm-8 col-sm-offset-1 col-xs-12">
-              <h5>White Paper</h5>
-              <h2 class="blue">Transforming Leadership Communication<br />- Key Insights for the Mobile Enterprise</h2>
+              <h2 class="blue"><a href="../downloads/white-papers/BoardVantage-Purpose-Built-Collaboration-for-Leadership-eRead.pdf" target="new">Purpose-Built Collaboration for Leadership<br />- Key Insights for the Mobile Enterprise</a></h2>
               <p>Dispersion for leadership teams is a fact of life in the mobile enterprise. Those teams have communication needs that go beyond email and paper. This white paper has practical insights about how to enable better leadership team collaboration using technology.</p>
-              <a href="http://www.boardvantage.com/downloads/white-papers/boardvantage-wp-leadership-communication-mobile-enterprise.pdf" class="read-more-link" target="new">Download &gt;</a>
+              <a href="../downloads/white-papers/BoardVantage-Purpose-Built-Collaboration-for-Leadership-eRead.pdf" class="read-more-link" target="new">Download &gt;</a>
               </div>
             </div>
             
@@ -124,7 +123,7 @@
               <a href="resources/board-portals-a-primer.php"><img class="img-responsive image-shadow" src="img/COVER_BP.png"></a>
             </div>
             <div class="col-sm-8 col-sm-offset-1 col-xs-12">
-              <h2 class="blue" style="margin-top:0;">Board Portal: A Primer</h2>
+              <h2 class="blue"  style="margin-top:0;"><a href="../resources/board-portals-a-primer.php">Board Portal: A Primer</a></h2>
               <p>
                 A board portal is a secure app or website designed explicitly for the purpose of facilitating communication between directors and the company. The current generation of board portals supports information exchange and captures the process that takes place in meetings and in between meetings. There are three major attributes in a board portal: a) online access for directors, b) toolkit for the corporate secretary and c) security which meets or exceeds the standards of the IT organization. Directors access the board portal from a browser or an iPad but the iPad is overwhelmingly the device of choice today.
               </p>

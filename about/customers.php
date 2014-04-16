@@ -63,7 +63,9 @@
             
               <div class="sec2-pad">
                         
-              <h2 style="text-align:center; font-weight:normal; margin-bottom:25px;"><i>Here are some of our customers</i></h2>
+              <!--<h2 style="text-align:center; font-weight:normal; margin-bottom:25px;"><i>Here are some of our customers</i></h2>-->
+              <span style="font-size: 18px;">Here are some of our customers</span> 
+              <hr style="color:#e2e2e2;background-color:#e2e2e2;height:1px;border:none; margin-bottom: 20px;" />
               <table><tr>
              <td style="vertical-align:top; width:400px;">
               1st Bank Financial Centre<br>

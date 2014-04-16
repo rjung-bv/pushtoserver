@@ -35,7 +35,7 @@
                 </p>
                 <p class="col-sm-12" style="padding: 0;">To deal with the speed of today's board communications, many boards are adopting board portals. Board portals give directors greater visibility into operations, streamline board book creation, and tighten information security.
               </p>
-              <hr class="extended" />
+ 
             </div>
             <div class="col-sm-12">
               <h3 class="blue">What is a Board Portal?</h3>
