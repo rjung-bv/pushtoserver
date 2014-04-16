@@ -2,9 +2,46 @@
 
 <!-- ########## EDIT BELOW PER PAGE ########## -->	  
 	
-    <!-- ### TABBED HERO ### -->
+  <style type="text/css">
+.product-page-bar {
+background-color: #0876a3;
+margin: 112px auto 0;
+left: inherit;
+width: 100%;
+padding-top: 10px;
+bottom: 0;
+height: 40px;
+font-size: 1.1em;
+text-align: center;
+}
+.product-page-bar li {
+text-indent: 0;
+display: inline;
+width: inherit;
+height: inherit;
+color: #ffffff;
+border: 0;
+margin: 0;
+padding: 10px 15px;
+}
+.product-page-bar li:nth-child(-n+2) {
+border-right: 1px solid #fff;
+}
+.product-page-bar .active {
+margin: 0;
+width: inherit;
+height: inherit;
+background-color: #084b77;
+}
+@media screen and (min-width: 768px) {
+.product-page-bar li {
+padding: 10px 7.5%;
+}
+}
+  </style>
+    <!-- ### TABBED HERO 
     <section class="tabbed-hero">
-      <!-- ### IMAGE ROW ### -->
+
       <div class="row hero-img-row">
         <div class="nopadding text-center">
           <img class="img-responsive actual-banner-image" src="../img/banner-meetx.png">
@@ -12,11 +49,12 @@
           <div class="banner-caption-holder">
             <img class="img-responsive" src="../img/meetx-banner-text307x166.png" alt="MeetX text">
           <a href="../products/director-demo.php"><img class="img-responsive" src="../img/orange-request-demo-button180x50.png" alt="orange request demo button"></a>
-          </div><!--product-demo holder-->
-        </div><!--container -->
+          </div><
         </div>
-      </div><!-- / hero-img-row -->
-    </section><!-- / tabbed-hero -->
+        </div>
+      </div><
+    </section>
+    ### -->
 
     <!-- ### MODAL ### -->
     <div class="modal fade" id="videoModalone">
@@ -34,9 +72,14 @@
     </div>   
 
 <!-- ##### CONTENT ##### -->
+        <ol class="product-page-bar">
+        <li class="">Boards of Directors</li><!--
+    --><li  class="active">Senior Leadership</li><!--
+    --><li  class="">Dispersed Teams</li>
+        </ol>
     <div class="row page-lead">
       <div class="container">
-        <p class="lead col-xs-12 text-center nopadding">MeetX is a secure platform purpose-built for senior leadership collaboration. With calibrated tools, MeetX raises executive visibility and makes process outcomes more timely and predictable.</p>
+        <p class="lead col-xs-12 text-center nopadding"><img class="product-logo" src="../img/LOGO_MeetX.png" alt-"MeetX logo">MeetX is a secure platform purpose-built for senior leadership collaboration. With calibrated tools, MeetX raises executive visibility and makes process outcomes more timely and predictable.</p>
       </div>
     </div>
 <!-- ### SECONDARY NAV ### -->
