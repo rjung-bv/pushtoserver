@@ -17,7 +17,7 @@
 <!-- ##### CONTENT ##### -->
     <div class="row page-lead" style="padding-top: 106px;">
       <div class="container">
-        <p class="lead col-xs-12 text-center nopadding">The BoardVantage platform reconciles high-caliber security with executive experience, assuring confidentiality of client content while strict control over every aspect of the collaboration chain eliminates over-sharing.  
+        <p class="lead col-xs-12 text-center nopadding">The BoardVantage platform is purpose-built to address the need for mobile collaboration beyond email.  The platform reconciles security and control with the requirements of executive experience.  
         </p>
       </div>
     </div>
@@ -40,8 +40,8 @@
 <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="secondary-nav-collapse">
               <ul class="nav navbar-nav navbar-left">
-                <li class="secondary-nav-page-title"><a href="platform.php">platform ></a></li>
-                <li><a href="#mobility">mobility</a></li> 
+                <!--<li class="secondary-nav-page-title"><a href="platform.php">platform ></a></li>-->
+                <li><a href="platform.php">mobility</a></li> 
                 <li><a href="#security">security</a></li>
                 <li><a href="#control">control</a></li>
               </ul>
@@ -58,7 +58,7 @@
     			<section class="col-xs-12 page-content" id="mobility" data-spy="scroll" data-target=".sticky-nav" data-offset="0">
             <div class="col-sm-6">
               <h3 class="blue">Mobility</h3>
-              <p class="leading-content">The BoardVantage platform is purpose-built to address the need for mobile collaboration tools beyond email. </p>
+              <p class="lending-content" style="font-size:1.5em">The BoardVantage platform is purpose-built to address the need for mobile collaboration tools beyond email. </p>
               <p>&nbsp;</p>
               <h4>A Visual Experience</h4>
               <p>A visual representation makes complex information actionable. That’s why the platform places an emphasis on graphics and animation throughout its design. Visual design will offset the screen size limitations of mobile devices, which is of particular importance in presenting the multi-layered documents typically found in and around the executive suite.</p>
@@ -72,21 +72,22 @@
               <p>&nbsp;</p>
               <h4>Support for Multiple Devices</h4>
               <p>Unlike a few years ago, the market is no longer just about iPads. Other tablets and operating systems have gained popularity and phones are now capable of handling tasks that could only be performed on laptops not long ago. That’s why the platform supports a full range of devices and operating systems, including Android and Microsoft Surface.</p>
-              <p>&nbsp;</p>
+              <p>&nbsp;</p>  
               <h4>A Visual and Mobile Experience</h4>
-              <p>The BoardVantage platform is purpose-built to address the challenges and opportunities for mobile communication beyond email. Designed with an emphasis on graphics and animation, the platform’s visual representation makes complex information actionable from tablets and smart phones.  Because dispersed teams rely on mobile devices for viewing critical documents, offline capability kicks in seamlessly when network access is unavailable, irrespective of any action taken by the user. Administrators may push content so the users will always have the latest information at their fingertips. Because the tablet market has increased in size and diversity the platform supports a full range of devices and operating systems, including Android and Microsoft Surface. </p>
+              <p>The BoardVantage platform is purpose-built to address the challenges and opportunities for mobile communication beyond email. Designed with an emphasis on graphics and animation, the platform’s visual representation makes complex information actionable from tablets and smart phones.  Because dispersed teams rely on mobile devices for viewing critical documents, offline capability kicks in seamlessly when network access is unavailable, irrespective of any action taken by the user. Administrators may push content so the users will always have the latest information at their fingertips. <span  id="security"><!-- offset security --></span>Because the tablet market has increased in size and diversity the platform supports a full range of devices and operating systems, including Android and Microsoft Surface. </p>
             </div>
           </section><!-- / .page-content -->
-          <p>&nbsp;</p>
+          <p>&nbsp;</p>  
           <hr class="dotted" />
 
-          <section class="col-xs-12 page-content" id="security">
+          <!--<section class="col-xs-12 page-content" id="security">-->
+          <section class="col-xs-12 page-content">
             <div class="col-sm-6 pg-section">
               <img class="img-responsive" src="img/platform-ipad.png">
             </div>
             <div class="col-sm-6">
               <h3 class="blue">Security</h3>
-              <p class="leading-content">To assure the confidentiality of client information, the BoardVantage platform was designed to meet or exceed the security standards of enterprise IT department, including those of large financial institutions</p>
+              <p class="leading-content" style="font-size:1.5em">To assure the confidentiality of client information, the BoardVantage platform was designed to meet or exceed the security standards of enterprise IT department, including those of large financial institutions</p>
             </div>
             <div class="col-sm-12">
               <p>&nbsp;</p>
@@ -118,21 +119,23 @@
                 <li><a href="data-resources/white-papers/BoardVantage-Infrastructure-and-Security-whitepaper.pdf" target="new">Infrastructure Paper</a></li></div>
               <div class="col-xs-2">
                 <a href="data-resources/white-papers/BoardVantage-411-Security-Model-whitepaper.pdf" target="new"><img class="img-responsive" src="img/platform/security-paper-thumb-2.png"></a>
-                <li><a href="data-resources/white-papers/BoardVantage-411-Security-Model-whitepaper.pdf" target="new">Security Paper</a></li>
+                <li><a href="data-resources/white-papers/BoardVantage-411-Security-Model-whitepaper.pdf" target="new">Security Paper</a></li><span  id="control"><!-- offset control --></span>
               </div>
+              <!-- 
               <div class="col-xs-2" style="margin-top:57px;">
                 <a href="https://www.youtube.com/embed/QQeujRzk9Q8" target="new"><img class="img-responsive" src="img/platform/security-webcast-thumb.png"></a>
                 <li  style="margin-top: 10px;"><a href="https://www.youtube.com/embed/QQeujRzk9Q8" target="new">Security Webcast</a></li>
               </div>
+              -->
             </div>
             <p>&nbsp;</p>
             <hr class="extended" />
           </section>
           
-          <section class="col-xs-12 page-content" id="control">
+          <section class="col-xs-12 page-content">
             <div class="col-sm-6">
               <h3 class="blue">Control</h3>
-              <p class="leading-content">The BoardVantage platform controls every aspect of the collaboration chain. This preserves the benefits of file sharing and ready access to updated content, without risk of information leaks.</p>
+              <p class="leading-content" style="font-size:1.5em">The BoardVantage platform controls every aspect of the collaboration chain. This preserves the benefits of file sharing and ready access to updated content, without risk of information leaks.</p>
               <p>&nbsp;</p>
             </div>
             <div class="col-sm-6">
@@ -162,10 +165,12 @@
                 <a href="data-resources/white-papers/BoardVantage-Control-the-Mojo-whitepaper.pdf" target="_blank"><img class="img-responsive" src="img/platform/control-paper-thumb-2.png"></a>
                 <li><a href="data-resources/white-papers/BoardVantage-Control-the-Mojo-whitepaper.pdf" target="_blank">Control Paper</a></li>
               </div>
+              <!-- 
               <div class="col-xs-2" style="margin-top:57px;">
                 <a href="https://www.youtube.com/embed/7mTNnHA3lmI" target="_blank"><img class="img-responsive" src="img/platform/dynamic-GC-thumb.png"></a>
                 <li  style="margin-top: 10px;"><a href="https://www.youtube.com/embed/7mTNnHA3lmI" target="_blank">The Dynamic GC Office</a></li>
               </div>
+              -->
             </div>
             <p>&nbsp;</p>
             <hr class="extended" />
