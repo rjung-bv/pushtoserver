@@ -125,7 +125,16 @@
                   </li>
                 </ul>
               </li>
-              <li><a href="platform.php">platform</a></li>
+              <!--<li><a href="platform.php">platform</a></li>-->
+              <li class="dropdown">
+                <a href="" class="dropdown-toggle" data-hover="dropdown">platform</a>
+                <ul class="dropdown-menu">
+                  <li><a href="platform.php">Mobility</a></li>
+                  <li><a href="platform.php#security">Security</a></li>
+                  <li><a href="platform.php#control">Control</a></li>
+                  <li><a href="platform.php#hosting">On-Premise</a></li>
+                </ul>
+              </li>
               <li class="dropdown">
                 <a href="" class="dropdown-toggle" data-hover="dropdown">resources</a>
                 <ul class="dropdown-menu">

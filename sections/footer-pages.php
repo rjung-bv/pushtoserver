@@ -37,7 +37,7 @@
                     <h4>PLATFORM</h4>
                     <ul>
                       <li><a href="../platform.php#mobility">Mobility</a></li>
-                      <li><a href="../platform.php#security">Seurity</a></li>
+                      <li><a href="../platform.php#security">Security</a></li>
                       <li><a href="../platform.php#control">Control</a></li>
                       <li><a href="../platform.php#hosting">On-Premise</a></li>
                     </ul>
