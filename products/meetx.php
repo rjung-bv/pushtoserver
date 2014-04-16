@@ -36,8 +36,7 @@
 <!-- ##### CONTENT ##### -->
     <div class="row page-lead">
       <div class="container">
-        <p class="lead col-xs-12 text-center nopadding">Built to move senior leadership beyond email and paper, MeetX combines unprecedented meeting productivity with access to confidential content on mobile devices, with or without Wi-Fi.
-        </p>
+        <p class="lead col-xs-12 text-center nopadding">MeetX is a secure platform purpose-built for senior leadership collaboration. With calibrated tools, MeetX raises executive visibility and makes process outcomes more timely and predictable.</p>
       </div>
     </div>
 <!-- ### SECONDARY NAV ### -->
@@ -58,8 +57,8 @@
 <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="secondary-nav-collapse">
               <ul class="nav navbar-nav navbar-left">
-                <li><a href="#">meet x ></a></li>
-                <li><a href="#benefits">benefits</a></li> 
+                <!--<li><a href="#">meet x ></a></li>-->
+                <li><a href="#">benefits</a></li> 
                 <li><a href="#video">video</a></li>
                 <li><a href="#features">features</a></li>
                 <li><a href="#faq">faq</a></li>

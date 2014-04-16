@@ -24,8 +24,7 @@
 <!-- ##### CONTENT ##### -->
     <div class="row page-lead">
       <div class="container">
-        <p class="lead col-xs-12 text-center nopadding">ShareX is secure document sharing application that eliminates risks associated with the cloud.
-        </p>
+        <p class="lead col-xs-12 text-center nopadding">ShareX is secure document sharing application. ShareX eliminates the risks of the cloud while still meeting the user's needs for mobility and a rich user experience.</p>
       </div>
     </div>
 <!-- ### SECONDARY NAV ### -->
@@ -46,8 +45,8 @@
 <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="secondary-nav-collapse">
               <ul class="nav navbar-nav navbar-left">
-                <li><a href="#">share x ></a></li>
-                <li><a href="#benefits">benefits</a></li> 
+                <!--<li><a href="#">share x ></a></li>-->
+                <li><a href="#">benefits</a></li> 
                 <li><a href="#features">features</a></li>
                 <li><a href="#faq">faq</a></li>
                 <li><a href="../products/director-demo.php">demo</a></li>

@@ -21,8 +21,7 @@
 <!-- ##### CONTENT ##### -->
     <div class="row page-lead">
       <div class="container">
-        <p class="lead col-xs-12 text-center nopadding">Director is a secure board portal that addresses all aspects of the paperless boardroom. Director reduces the time and cost of meeting prep, and delivers intuitive and secure access to board materials, even when Wi-Fi is inaccessible.
-        </p>
+        <p class="lead col-xs-12 text-center nopadding">Director addresses all aspects of the paperless boardroom. Director reduces the time and cost of meeting prep, and delivers intuitive and secure access to board materials, even when Wi-Fi is inaccessible.</p>
       </div>
     </div>
 <!-- ### SECONDARY NAV ### -->
@@ -43,8 +42,8 @@
 <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="secondary-nav-collapse">
               <ul class="nav navbar-nav navbar-left text-center col-xs-12">
-                <li class="col-xs-2"><a href="#">director ></a></li>
-                <li class="col-xs-2"><a href="#benefits">benefits</a></li> 
+                <!--<li class="col-xs-2"><a href="#">director ></a></li>-->
+                <li class="col-xs-2"><a href="#">benefits</a></li> 
                 <li class="col-xs-2"><a href="#features">features</a></li>
                 <li class="col-xs-2"><a href="#faq">faq</a></li>
                 <li class="col-xs-2"><a href="../products/director-demo.php">demo</a></li>
