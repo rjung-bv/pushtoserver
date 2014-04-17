@@ -138,13 +138,40 @@
     <br />
       <div class="container">
         <div class="col-sm-12">
-          <h3>Learn More About MeetX</h3>
+          <h3 style="margin-bottom: 20px;">Learn More About MeetX</h3>
         </div>
         <div class="col-sm-6 col-xs-12" style="margin-bottom:30px;">
           <!--<img class="img-responsive pull-left" src="../img/meetx/meetx-danielle.png">-->
+                      <!-- *****************     Code below relates to popup for ShareX slideshow   ****  include css and jquery files     *******   -->
+            
+            <link rel="stylesheet" href="../stylesheets/colorbox.css" />
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+            <script src="../js/jquery.colorbox.js"></script>
+            <script>
+              var slides = $.noConflict();  //this is used where have 2 jquery functions using doc ready
+              slides(document).ready(function(){
+                slides(".groupMX").colorbox({rel:'groupMX', slideshow:true, slideshowSpeed:6000});
+                });
+            </script>
           <img class="img-responsive pull-left" src="../img/meetx/THUMB_MeetX_Slideshow.png" alt="MeetX Slideshow">
           <h4 class="col-sm-12">Slideshow: Functionality @Glance</h4>
-          <button class="light-blue-button">View Slideshow</button>
+          <a class="groupMX" href="../img/product-content-slides/meetx-slide.jpg" title=""><button class="light-blue-button">View Slideshow</button></a>
+                 <!-- <a class="groupMX" href="../img/product-content-slides/meetx-slide.jpg" title=""><img class="img-responsive pull-right" src="../img/meetx/meetx-features.png"></a> -->
+                          <div style='display:none'>
+                  <p><a class="groupMX"  href="../img/product-content-slides/meetx-slide2.jpg" title=""></a></p>
+                  <p><a class="groupMX"  href="../img/product-content-slides/meetx-slide3.jpg" title=""></a></p>
+                  <p><a class="groupMX"  href="../img/product-content-slides/meetx-slide4.jpg" title=""></a></p>
+                  <p><a class="groupMX"  href="../img/product-content-slides/meetx-slide5.jpg" title=""></a></p>
+                  <p><a class="groupMX"  href="../img/product-content-slides/meetx-slide6.jpg" title=""></a></p>
+                  <p><a class="groupMX"  href="../img/product-content-slides/meetx-slide7.jpg" title=""></a></p>
+                  <p><a class="groupMX"  href="../img/product-content-slides/meetx-slide8.jpg" title=""></a></p>
+                  <p><a class="groupMX"  href="../img/product-content-slides/meetx-slide9.jpg" title=""></a></p>
+                  <p><a class="groupMX"  href="../img/product-content-slides/meetx-slide10.jpg" title=""></a></p>
+                  <p><a class="groupMX"  href="../img/product-content-slides/meetx-slide11.jpg" title=""></a></p>
+                  <p><a class="groupMX"  href="../img/product-content-slides/meetx-slide12.jpg" title=""></a></p>
+                  </div>
+                
+        <!-- *****************     END ShareX slideshow   ****           *******   -->
         </div>
         <div class="col-sm-6">
           <!--
@@ -153,7 +180,7 @@
         -->
           <img class="img-responsive pull-left" src="../img/meetx/THUMB_MeetX_Video.png" alt="MeetX Video">
           <h4 class="col-sm-12">Video: Day in the Life</h4>
-          <button class="light-blue-button">View Slideshow</button>
+          <button class="light-blue-button">Play Video</button>
         </div>
       </div>
     </section><!-- / .page-content -->
