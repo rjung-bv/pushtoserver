@@ -999,6 +999,16 @@ margin: 10px auto 30px;
   }
 }
 
+button.light-blue-button {
+background-color: #2B8CC0;
+color: #ffffff;
+padding: 10px 20px;
+border: none;
+-moz-box-shadow: 3px 3px 5px 6px #ccc;
+-webkit-box-shadow: 3px 3px 5px 6px #ccc;
+box-shadow: 3px 3px 5px 1px #ccc;
+margin-left: 15px;
+}
 .accordion-holder {
   margin-bottom: 50px;
 }

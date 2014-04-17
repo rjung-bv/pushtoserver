@@ -137,13 +137,23 @@
     <section class="col-xs-12 page-content raised-content" id="video">
     <br />
       <div class="container">
-        <div class="col-sm-6">
-          <img class="img-responsive pull-left" src="../img/meetx/meetx-danielle.png">
+        <div class="col-sm-12">
+          <h3>Learn More About MeetX</h3>
+        </div>
+        <div class="col-sm-6 col-xs-12" style="margin-bottom:30px;">
+          <!--<img class="img-responsive pull-left" src="../img/meetx/meetx-danielle.png">-->
+          <img class="img-responsive pull-left" src="../img/meetx/THUMB_MeetX_Slideshow.png" alt="MeetX Slideshow">
+          <h4 class="col-sm-12">Slideshow: Functionality @Glance</h4>
+          <button class="light-blue-button">View Slideshow</button>
         </div>
         <div class="col-sm-6">
-          <h3>Learn More About MeetX</h3>
+          <!--
           <p>Copy about viewing video and learning more. Ut Blue Bottle chambray, tofu Cosby sweater pork belly trust fund consectetur velit food truck American Apparel. Actually occaecat lo-fi cred drinking vinegar, polaroid freegan Tumblr swag flannel.</p>
           <a href="http://vimeo.com/69575441" class="read-more-link" target="new">Watch Video &gt;</a>
+        -->
+          <img class="img-responsive pull-left" src="../img/meetx/THUMB_MeetX_Video.png" alt="MeetX Video">
+          <h4 class="col-sm-12">Video: Day in the Life</h4>
+          <button class="light-blue-button">View Slideshow</button>
         </div>
       </div>
     </section><!-- / .page-content -->
