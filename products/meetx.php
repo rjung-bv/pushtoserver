@@ -2,46 +2,6 @@
 
 <!-- ########## EDIT BELOW PER PAGE ########## -->	  
 	
-  <style type="text/css">
-.product-page-bar {
-background-color: #0876a3;
-margin: 112px auto 0;
-left: inherit;
-width: 100%;
-padding-top: 10px;
-bottom: 0;
-height: 40px;
-font-size: 1.1em;
-text-align: center;
-}
-.product-page-bar li {
-text-indent: 0;
-display: inline;
-width: inherit;
-height: inherit;
-color: #ffffff;
-border: 0;
-margin: 0;
-padding: 10px 15px;
-}
-.product-page-bar li:nth-child(-n+2) {
-border-right: 1px solid #fff;
-}
-.product-page-bar .active {
-margin: 0;
-width: inherit;
-height: inherit;
-background-color: #084b77;
-}
-.product-page-bar li:hover, .product-page-bar li:focus {
-background-color: #084b77;
-}
-@media screen and (min-width: 768px) {
-.product-page-bar li {
-padding: 10px 7.5%;
-}
-}
-  </style>
     <!-- ### TABBED HERO 
     <section class="tabbed-hero">
 
@@ -193,53 +153,68 @@ padding: 10px 7.5%;
         <br />
         <br />
           <h3>MeetX Features</h3>
-          <div class="col-sm-9 nopadding">
-            <div class="col-sm-4">
+          <div class="col-sm-12 nopadding">
+            <div class="col-sm-3">
               <div>
                 <h5>Meeting Center</h5>
-                <p>Instant access to all <br />Meetings</p>
+                <p>Instant access <br />to all Meetings</p>
               </div>
               <div>
                 <h5>Presenter Mode</h5>
-                <p>For improved meeting <br />flow </p>
+                <p>For improved <br />meeting flow </p>
               </div>
               <div>
                 <h5>Secure Email</h5>
                 <p>Exchange confidential <br />messages</p>
               </div>
             </div><!-- / col-sm-4 -->
-            <div class="col-sm-4">
+            <div class="col-sm-3">
               <div>
                 <h5>eSignature</h5>
-                <p>Sign from your iPhone or <br />iPad</p>
+                <p>Sign from your <br />iPhone or iPad</p>
               </div>
               <div>
                 <h5>Annotations</h5>
-                <p>Notes and highlights, freehand <br />or pushpins</p>
+                <p>Notes and highlights, <br />freehand or pushpins</p>
               </div>
               <div>
                 <h5>Remote Purge</h5>
-                <p>In case of loss or theft of <br />device </p>
+                <p>In case of loss or <br />theft of device </p>
               </div>
             </div><!-- / col-sm-4 -->
-            <div class="col-sm-4">
+            <div class="col-sm-3">
               <div>
                 <h5>Approvals</h5>
-                <p>Easy-to-use tools for all <br />approvals</p>
+                <p>Easy-to-use tools <br />for all approvals</p>
               </div>
               <div>
                 <h5>Badges</h5>
-                <p>Visual cues for task-driven <br />access</p>
+                <p>Visual cues for <br />task-driven access</p>
               </div>
               <div>
                 <h5>TeamSpaces</h5>
-                <p>Segregate content by team or <br />board </p>
+                <p>Segregate content <br />by team or board </p>
               </div>
-            </div><!-- / col-sm-4 -->
+            </div><!-- / col-sm-3 -->
+            <div class="col-sm-3">
+              <div>
+                <h5>Pervasive Branding</h5>
+                <p>Cusomer logo and <br />colors throughout</p>
+              </div>
+              <div>
+                <h5>Auto Sync</h5>
+                <p>Transparent online<br />offline</p>
+              </div>
+              <div>
+                <h5>Deployments</h5>
+                <p>Hosted service or<br />installed on-premise</p>
+              </div>
+            </div><!-- / col-sm-3 -->
           </div>
-          <div class="col-sm-3">
+
           	<!-- *****************     Code below relates to popup for ShareX slideshow   ****  include css and jquery files     *******   -->
-				 		<link rel="stylesheet" href="../stylesheets/colorbox.css" />
+				 		<!--
+            <link rel="stylesheet" href="../stylesheets/colorbox.css" />
 						<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 						<script src="../js/jquery.colorbox.js"></script>
 						<script>
@@ -263,8 +238,8 @@ padding: 10px 7.5%;
 									<p><a class="groupMX"  href="../img/product-content-slides/meetx-slide11.jpg" title=""></a></p>
 									<p><a class="groupMX"  href="../img/product-content-slides/meetx-slide12.jpg" title=""></a></p>
 									</div>
+                -->
 				<!-- *****************     END ShareX slideshow   ****           *******   -->
-          </div>
         </section><!-- / .page-content -->
         <p>&nbsp;</p>
         <hr class="extended" />
