@@ -912,7 +912,7 @@ left: inherit;
 width: 100%;
 padding-top: 10px;
 bottom: 0;
-height: 40px;
+height: 50px;
 font-size: 1.1em;
 text-align: center;
 }
@@ -924,7 +924,16 @@ height: inherit;
 color: #ffffff;
 border: 0;
 margin: 0;
-padding: 10px 15px;
+line-height: 30px;
+padding: 15px 15px 15px;
+}
+.product-page-bar li a {
+  color: #ffffff !important;
+  text-decoration: none;
+}
+.product-page-bar li a:hover, .product-page-bar li a:active, .product-page-bar li a:focus {
+  color: #ffffff;
+  text-decoration: none;
 }
 .product-page-bar li:nth-child(-n+2) {
 border-right: 1px solid #fff;
@@ -940,7 +949,7 @@ background-color: #084b77;
 }
 @media screen and (min-width: 768px) {
 .product-page-bar li {
-padding: 10px 7.5%;
+padding: 15px 7.5%;
 }
 }
 img.product-logo {

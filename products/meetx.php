@@ -36,9 +36,9 @@
 
 <!-- ##### CONTENT ##### -->
         <ol class="product-page-bar">
-        <li class="">Boards of Directors</li><!--
+        <li class=""><a href="director.php">Boards of Directors</a></li><!--
     --><li class="active">Senior Leadership</li><!--
-    --><li class="">Dispersed Teams</li>
+    --><li class=""><a href="sharex.php">Dispersed Teams</a></li>
         </ol>
     <div class="row page-lead">
       <div class="container">
