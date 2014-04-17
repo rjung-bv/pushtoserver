@@ -33,6 +33,9 @@ width: inherit;
 height: inherit;
 background-color: #084b77;
 }
+.product-page-bar li:hover, .product-page-bar li:focus {
+background-color: #084b77;
+}
 @media screen and (min-width: 768px) {
 .product-page-bar li {
 padding: 10px 7.5%;
@@ -74,8 +77,8 @@ padding: 10px 7.5%;
 <!-- ##### CONTENT ##### -->
         <ol class="product-page-bar">
         <li class="">Boards of Directors</li><!--
-    --><li  class="active">Senior Leadership</li><!--
-    --><li  class="">Dispersed Teams</li>
+    --><li class="active">Senior Leadership</li><!--
+    --><li class="">Dispersed Teams</li>
         </ol>
     <div class="row page-lead">
       <div class="container">
@@ -102,7 +105,7 @@ padding: 10px 7.5%;
               <ul class="nav navbar-nav navbar-left">
                 <!--<li><a href="#">meet x ></a></li>-->
                 <li><a href="#">benefits</a></li> 
-                <li><a href="#video">video</a></li>
+                <!--<li><a href="#video">video</a></li>-->
                 <li><a href="#features">features</a></li>
                 <li><a href="#faq">faq</a></li>
                 <li><a href="../products/director-demo.php">demo</a></li>
@@ -118,6 +121,7 @@ padding: 10px 7.5%;
   	<div class="row page-wrap two-nav product-page" >
       <div class="container">
       <!-- LEFT IMG BLOCK -->
+      <!--
     		<section class="col-xs-12 page-content" id="benefits">
         <br />
         <br />
@@ -128,9 +132,10 @@ padding: 10px 7.5%;
             <h3>Purpose-Built for Leadership Communication</h3>
             <p>Purpose-built for leadership communication, MeetX adds context to content, leading to more efficient meetings and faster decisions. With calibrated tools, MeetX raises executive visibility and makes process outcomes more timely and predictable. </p>
           </div>
-        </section><!-- / .page-content -->
+        </section>
         <p>&nbsp;</p>
         <hr class="extended" />
+      -->
       <!-- RIGHT IMG BLOCK -->
         <section class="col-xs-12 page-content">
           <div class="col-sm-6">
