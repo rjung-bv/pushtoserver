@@ -299,9 +299,9 @@
               <div class="panel panel-default">
                 <div class="panel-heading">
                   <h5 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#faq01">
+                    <!--<a data-toggle="collapse" data-parent="#accordion" href="#faq01"> -->
                       1. What is MeetX?
-                    </a>
+                    <!--</a>-->
                   </h5>
                 </div>
                 <div id="faq01" class="panel-collapse collapse in">
@@ -314,12 +314,12 @@
               <div class="panel panel-default">
                 <div class="panel-heading">
                   <h5 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#faq02">
+                    <!--<a data-toggle="collapse" data-parent="#accordion" href="#faq02">-->
                       2. How does MeetX help with Meeting Productivity?
-                    </a>
+                    <!--</a>-->
                   </h5>
                 </div>
-                <div id="faq02" class="panel-collapse collapse">
+                <div id="faq02" class="panel-collapse collapse in">
                   <div class="panel-body">
                     <p>MeetX captures complex meeting process online. Individual documents are presented in the context of a meeting agenda. Current meetings are presented in a timeline of previous meetings. Special events are presented in the form of a calendar. For executives who are overloaded with information, MeetX boosts the productivity that is often lacking in high-level meetings today.</p>
                   </div>
@@ -329,12 +329,12 @@
               <div class="panel panel-default">
                 <div class="panel-heading">
                   <h5 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#faq03">
+                    <!--<a data-toggle="collapse" data-parent="#accordion" href="#faq03">-->
                      3. How does MeetX help executives on the go?
-                    </a>
+                    <!--</a>-->
                   </h5>
                 </div>
-                <div id="faq03" class="panel-collapse collapse">
+                <div id="faq03" class="panel-collapse collapse in">
                   <div class="panel-body">
                     <p>MeetX offers an array of tools and process flows designed for executive use: approvals for green-lighting initiatives and e-signing agreements, conferencing for presenting at remote meetings, and secure email to support the need for one-on-one communication. These tools share a common purpose - driving process while on the go.</p>
                   </div>
@@ -344,12 +344,12 @@
               <div class="panel panel-default">
                 <div class="panel-heading">
                   <h5 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#faq04">
+                    <!--<a data-toggle="collapse" data-parent="#accordion" href="#faq04">-->
                      4. What if Wi-Fi is unavailable? How do I access my critical content?
-                    </a>
+                    <!--</a>-->
                   </h5>
                 </div>
-                <div id="faq04" class="panel-collapse collapse">
+                <div id="faq04" class="panel-collapse collapse in">
                   <div class="panel-body">
                     <p>As business travelers know, network access can be spotty, particularly on the road. MeetX overcomes this challenge by auto-syncing server and device. With this architecture, shared content online is instantly available offline, irrespective of the actions taken by the user. So whether there is Wi-Fi availability or not is entirely transparent. Users can review and annotate documents as well as sign documents even while offline. At such time as the network connection is restored, all updates made in offline mode will automatically sync back to the server without action required on the part of the user.</p>
                   </div>
@@ -359,12 +359,12 @@
               <div class="panel panel-default">
                 <div class="panel-heading">
                   <h5 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#faq05">
+                    <!--<a data-toggle="collapse" data-parent="#accordion" href="#faq05">-->
                      5. How secure is MeetX?
-                    </a>
+                    <!--</a>-->
                   </h5>
                 </div>
-                <div id="faq05" class="panel-collapse collapse">
+                <div id="faq05" class="panel-collapse collapse in">
                   <div class="panel-body">
                     <p>MeetX is hosted in a highly secure, hardened data center with no third party access. MeetX includes full strength encryption, multi-factor authentication and certificates. Customer content is segregated into individual repositories and encrypted with unique keys. Only the customers' authorized users can access protected data, barring even BoardVantage system administrators from viewing content.</p>
                   </div>
@@ -374,12 +374,12 @@
               <div class="panel panel-default">
                 <div class="panel-heading">
                   <h5 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#faq06">
+                    <!--<a data-toggle="collapse" data-parent="#accordion" href="#faq06">-->
                      6. Can I use MeetX for my board?
-                    </a>
+                    <!--</a>-->
                   </h5>
                 </div>
-                <div id="faq06" class="panel-collapse collapse">
+                <div id="faq06" class="panel-collapse collapse in">
                   <div class="panel-body">
                     <p>Whereas traditional boards may prefer the look and feel of BoardVantage Director, tech-savvy boards will opt for MeetX because of the increased productivity that comes with its task-driven qualities.</p>
                   </div>
@@ -389,12 +389,12 @@
               <div class="panel panel-default">
                 <div class="panel-heading">
                   <h5 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#faq07">
+                    <!--<a data-toggle="collapse" data-parent="#accordion" href="#faq07">-->
                       7. Will I be able to customize the application with my company logo and colors?
-                    </a>
+                    <!--</a>-->
                   </h5>
                 </div>
-                <div id="faq07" class="panel-collapse collapse">
+                <div id="faq07" class="panel-collapse collapse in">
                   <div class="panel-body">
                     <p>Yes, you can brand the application to include your logo and your organization's colors.</p>
                   </div>
@@ -404,12 +404,12 @@
               <div class="panel panel-default">
                 <div class="panel-heading">
                   <h5 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#faq08">
+                    <!--<a data-toggle="collapse" data-parent="#accordion" href="#faq08">-->
                      8. How do you segregate content between different teams?
-                    </a>
+                    <!--</a>-->
                   </h5>
                 </div>
-                <div id="faq08" class="panel-collapse collapse">
+                <div id="faq08" class="panel-collapse collapse in">
                   <div class="panel-body">
                     <p>The MeetX architecture segregates content in separate portals which function as focal points for team initiatives or processes. Because these portals are ring-fenced for security, users only have access to content for which they're explicitly authorized, thereby reducing the risk of sharing outside the team. At the same time, user-friendly design allows authorized users to switch between portals without the burden of entering additional passwords.</p>
                   </div>
@@ -419,12 +419,12 @@
               <div class="panel panel-default">
                 <div class="panel-heading">
                   <h5 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#faq09">
+                    <!--<a data-toggle="collapse" data-parent="#accordion" href="#faq09">-->
                      9. How do end-users get started?
-                    </a>
+                    <!--</a>-->
                   </h5>
                 </div>
-                <div id="faq09" class="panel-collapse collapse">
+                <div id="faq09" class="panel-collapse collapse in">
                   <div class="panel-body">
                     <p>A simple download from iTunes, followed by the entry of a user name and password and use can begin right away. Also, provisioning and content upload, which precedes the end-user step, takes less than a few hours for a typical workgroup.</p>
                   </div>
@@ -434,12 +434,12 @@
               <div class="panel panel-default">
                 <div class="panel-heading">
                   <h5 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#faq10">
+                    <!--<a data-toggle="collapse" data-parent="#accordion" href="#faq10">-->
                      10. Can I try out MeetX to make sure it meets my needs?
-                    </a>
+                    <!--</a>-->
                   </h5>
                 </div>
-                <div id="faq10" class="panel-collapse collapse">
+                <div id="faq10" class="panel-collapse collapse in">
                   <div class="panel-body">
                     <p>You can check out MeetX under actual use conditions in a no-charge test instance. This lets you verify performance, user experience and process flows with your content and in your environment. Register online to get a password and userid.</p>
                   </div>
